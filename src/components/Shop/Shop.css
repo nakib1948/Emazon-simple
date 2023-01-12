@@ -1,0 +1,18 @@
+.shop-container{
+    display: flex;
+}
+.product-container{
+   
+    width: 75%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+    background: linear-gradient(to right, rgb(110, 110, 110), #8babb0,#d48989, #90a4a7);
+    border-radius: 5px;
+}
+
+.display{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
